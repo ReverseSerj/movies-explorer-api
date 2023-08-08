@@ -1,8 +1,8 @@
 const allowedCors = [
-  'https://petrov-films.nomoredomains.xyz',
-  'http://petrov-films.nomoredomains.xyz',
-  'https://api.petrov-films.nomoredomains.xyz',
-  'http://api.petrov-films.nomoredomains.xyz',
+  'https://serj.movie-explorer.nomoreparties.co',
+  'http://serj.movie-explorer.nomoreparties.co',
+  'https://api.serj.movie-explorer.nomoreparties.co',
+  'http://api.serj.movie-explorer.nomoreparties.co',
   'http://localhost:3000',
   'http://localhost:3001',
 ];
