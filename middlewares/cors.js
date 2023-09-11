@@ -1,10 +1,6 @@
 const allowedCors = [
   'https://serj.movie-explorer.nomoreparties.co',
   'http://serj.movie-explorer.nomoreparties.co',
-  'https://api.serj.movie-explorer.nomoreparties.co',
-  'http://api.serj.movie-explorer.nomoreparties.co',
-  'http://localhost:3000',
-  'http://localhost:3001',
 ];
 const DEFAULT_ALLOWED_METHODS = 'GET,HEAD,PUT,PATCH,POST,DELETE';
 
